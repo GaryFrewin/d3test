@@ -1,75 +1,224 @@
 {
-  "name": "flare",
+  "name": "Homepage",
   "children": [
     {
-      "name": "HomePage",
+      "name": "Top Menu",
       "children": [
         {
-          "name": "Top Menu",
+          "name": "News",
           "children": [
             {
-              "name": "News",
-              "children": [
-                {
-                  "name": "News Item 1"
-                },
-                {
-                  "name": "News item 2"
-                },
-                {
-                  "name": "News item 3"
-                },
-                {
-                  "name": "News Item 4"
-                }
-              ]
+              "name": "News Item 1"
             },
             {
-              "name": "Events",
-              "value": 33812
+              "name": "News item 2"
             },
             {
-              "name": "About",
-              "value": 6714
+              "name": "News item 3"
             },
             {
-              "name": "People",
-              "value": 743
-            },
-            {
-              "name": "Careers",
-              "value": 743
-            },
-            {
-              "name": "Contact",
-              "value": 743
+              "name": "News Item 4"
             }
           ]
         },
         {
-          "name": "Main Menu",
+          "name": "Events",
           "children": [
             {
-              "name": "BetweennessCentrality",
-              "value": 3534
+              "name": "Event 1"
             },
             {
-              "name": "LinkDistance",
-              "value": 5731
+              "name": "Event 2"
             },
             {
-              "name": "MaxFlowMinCut",
-              "value": 7840
+              "name": "Event 3"
             },
             {
-              "name": "ShortestPaths",
-              "value": 5914
-            },
-            {
-              "name": "SpanningTree",
-              "value": 3416
+              "name": "Event 4"
             }
           ]
+        },
+        {
+          "name": "About",
+          "children": [
+            {
+              "name": "Science Strategy"
+            },
+            {
+              "name": "Our Values",
+              "children": [
+                {
+                  "name": "Flexible Working"
+                },
+                {
+                  "name": "Athena SWAN"
+                },
+                {
+                  "name": "Diversity Policy"
+                }
+              ]
+            },
+            {
+              "name": "Diversity and Equality"
+            },
+            {
+              "name": "Athena SWAN"
+            },
+            {
+              "name": "National Capabilities"
+            },
+            {
+              "name": "Collaboration and Innovation"
+            },
+            {
+              "name": "Corporate Information and Funding",
+              "children": [
+                {
+                  "name": "Board of Directors"
+                },
+                {
+                  "name": "Annual Reports"
+                }
+              ]
+            },
+            {
+              "name": "History and Heritage",
+              "children": [
+                {
+                  "name": "A visual History of Rothamsted.pdf"
+                }
+              ]
+            },
+            {
+              "name": "Environmental Management System"
+            }
+          ]
+        },
+        {
+          "name": "People"
+        },
+        {
+          "name": "Careers",
+          "children": [
+            {
+              "name": "Data Privacy.doc"
+            },
+            {
+              "name": "Current Vacancies"
+            },
+            {
+              "name": "Studentships"
+            },
+            {
+              "name": "International Fellowships"
+            },
+            {
+              "name": "Work Experience"
+            },
+            {
+              "name": "Work Placements and Internships"
+            },
+            {
+              "name": "Apprenticeships",
+              "children": [
+                {
+                  "name": "Apprentice life at Rothamsted",
+                  "children": [
+                    {
+                      "name": "Matthew Berridge"
+                    },
+                    {
+                      "name": "Alice Belasai"
+                    },
+                    {
+                      "name": "David Steele"
+                    },
+                    {
+                      "name": "Hannah Walpole"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Life at Rothamsted"
+            },
+            {
+              "name": "Athena SWAN"
+            },
+            {
+              "name": "Flexible Working"
+            }
+          ]
+        },
+        {
+          "name": "Contact"
+        }
+      ]
+    },
+    {
+      "name": "Main Menu",
+      "children": [
+        {
+          "name": "Science"
+        },
+        {
+          "name": "Impact"
+        },
+        {
+          "name": "Reports"
+        },
+        {
+          "name": "Engage With Us"
+        },
+        {
+          "name": "Resources"
+        }
+      ]
+    },
+    {
+      "name": "Body",
+      "children": [
+        {
+          "name": "Latest Updates"
+        },
+        {
+          "name": "Our Purpose"
+        },
+        {
+          "name": "Our Science"
+        },
+        {
+          "name": "Our Impacts"
+        },
+        {
+          "name": "Engaging With Us"
+        },
+        {
+          "name": "Our Values"
+        },
+        {
+          "name": "Global Partnerships"
+        },
+        {
+          "name": "Our Locations"
+        }
+      ]
+    },
+    {
+      "name": "Footer",
+      "children": [
+        {
+          "name": "Disclaimer"
+        },
+        {
+          "name": "Privacy and Cookies"
+        },
+        {
+          "name": "Staff Information"
+        },
+        {
+          "name": "SiteMap"
         }
       ]
     }
