@@ -195,19 +195,24 @@
       "name": "Main Menu",
       "children": [
         {
-          "name": "Science"
+          "name": "Science",
+              "value": 1000
         },
         {
-          "name": "Impact"
+          "name": "Impact",
+              "value": 1000
         },
         {
-          "name": "Reports"
+          "name": "Reports",
+              "value": 1000
         },
         {
-          "name": "Engage With Us"
+          "name": "Engage With Us",
+              "value": 1000
         },
         {
-          "name": "Resources"
+          "name": "Resources",
+              "value": 1000
         }
       ]
     },
@@ -215,28 +220,36 @@
       "name": "Body",
       "children": [
         {
-          "name": "Latest Updates"
+          "name": "Latest Updates",
+              "value": 1000
         },
         {
-          "name": "Our Purpose"
+          "name": "Our Purpose",
+              "value": 1000
         },
         {
-          "name": "Our Science"
+          "name": "Our Science",
+              "value": 1000
         },
         {
-          "name": "Our Impacts"
+          "name": "Our Impacts",
+              "value": 1000
         },
         {
-          "name": "Engaging With Us"
+          "name": "Engaging With Us",
+              "value": 1000
         },
         {
-          "name": "Our Values"
+          "name": "Our Values",
+              "value": 1000
         },
         {
-          "name": "Global Partnerships"
+          "name": "Global Partnerships",
+              "value": 1000
         },
         {
-          "name": "Our Locations"
+          "name": "Our Locations",
+              "value": 1000
         }
       ]
     },
@@ -244,16 +257,20 @@
       "name": "Footer",
       "children": [
         {
-          "name": "Disclaimer"
+          "name": "Disclaimer",
+              "value": 1000
         },
         {
-          "name": "Privacy and Cookies"
+          "name": "Privacy and Cookies",
+              "value": 1000
         },
         {
-          "name": "Staff Information"
+          "name": "Staff Information",
+              "value": 1000
         },
         {
-          "name": "SiteMap"
+          "name": "SiteMap",
+              "value": 1000
         }
       ]
     }
