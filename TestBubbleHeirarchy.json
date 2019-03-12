@@ -710,23 +710,6 @@
     {
       "name": "vis",
       "children": [
-       
-       
-        
-            {
-              "name": "ScaleBinding",
-              "value": 11275
-            },
-            {
-              "name": "Tree",
-              "value": 7147
-            },
-            {
-              "name": "TreeBuilder",
-              "value": 9930
-            }
-          ]
-        },
         {
           "name": "events",
           "children": [
