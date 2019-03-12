@@ -8,7 +8,6 @@
           "children": [
             {
               "name": "News",
-              "value": 3938,
               "children": [
                 {
                   "name": "News Item 1"
@@ -26,7 +25,7 @@
             },
             {
               "name": "Events",
-              "value": 3812
+              "value": 33812
             },
             {
               "name": "About",
