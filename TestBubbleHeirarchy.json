@@ -8,16 +8,20 @@
           "name": "News",
           "children": [
             {
-              "name": "News Item 1"
+              "name": "News Item 1",
+              "value": 1000
             },
             {
-              "name": "News item 2"
+              "name": "News item 2",
+              "value": 1000
             },
             {
-              "name": "News item 3"
+              "name": "News item 3",
+              "value": 1000
             },
             {
-              "name": "News Item 4"
+              "name": "News Item 4",
+              "value": 1000
             }
           ]
         },
@@ -25,16 +29,20 @@
           "name": "Events",
           "children": [
             {
-              "name": "Event 1"
+              "name": "Event 1",
+              "value": 1000
             },
             {
-              "name": "Event 2"
+              "name": "Event 2",
+              "value": 1000
             },
             {
-              "name": "Event 3"
+              "name": "Event 3",
+              "value": 1000
             },
             {
-              "name": "Event 4"
+              "name": "Event 4",
+              "value": 1000
             }
           ]
         },
@@ -42,42 +50,52 @@
           "name": "About",
           "children": [
             {
-              "name": "Science Strategy"
+              "name": "Science Strategy",
+              "value": 1000
             },
             {
               "name": "Our Values",
               "children": [
                 {
-                  "name": "Flexible Working"
+                  "name": "Flexible Working",
+              "value": 1000
                 },
                 {
-                  "name": "Athena SWAN"
+                  "name": "Athena SWAN",
+              "value": 1000
                 },
                 {
-                  "name": "Diversity Policy"
+                  "name": "Diversity Policy",
+              "value": 1000
                 }
               ]
             },
             {
-              "name": "Diversity and Equality"
+              "name": "Diversity and Equality",
+              "value": 1000
             },
             {
-              "name": "Athena SWAN"
+              "name": "Athena SWAN",
+              "value": 1000
             },
             {
-              "name": "National Capabilities"
+              "name": "National Capabilities",
+              "value": 1000
             },
             {
-              "name": "Collaboration and Innovation"
+              "name": "Collaboration and Innovation",
+              "value": 1000
             },
             {
               "name": "Corporate Information and Funding",
               "children": [
                 {
-                  "name": "Board of Directors"
+                  "name": "Board of Directors",
+              "value": 1000
                 },
                 {
-                  "name": "Annual Reports"
+                  "name": "Annual Reports",
+              "value": 1000
                 }
               ]
             },
@@ -85,38 +103,47 @@
               "name": "History and Heritage",
               "children": [
                 {
-                  "name": "A visual History of Rothamsted.pdf"
+                  "name": "A visual History of Rothamsted.pdf",
+              "value": 1000
                 }
               ]
             },
             {
-              "name": "Environmental Management System"
+              "name": "Environmental Management System",
+              "value": 1000
             }
           ]
         },
         {
-          "name": "People"
+          "name": "People",
+              "value": 1000
         },
         {
           "name": "Careers",
           "children": [
             {
-              "name": "Data Privacy.doc"
+              "name": "Data Privacy.doc",
+              "value": 1000
             },
             {
-              "name": "Current Vacancies"
+              "name": "Current Vacancies",
+              "value": 1000
             },
             {
-              "name": "Studentships"
+              "name": "Studentships",
+              "value": 1000
             },
             {
-              "name": "International Fellowships"
+              "name": "International Fellowships",
+              "value": 1000
             },
             {
-              "name": "Work Experience"
+              "name": "Work Experience",
+              "value": 1000
             },
             {
-              "name": "Work Placements and Internships"
+              "name": "Work Placements and Internships",
+              "value": 1000
             },
             {
               "name": "Apprenticeships",
@@ -125,34 +152,42 @@
                   "name": "Apprentice life at Rothamsted",
                   "children": [
                     {
-                      "name": "Matthew Berridge"
+                      "name": "Matthew Berridge",
+              "value": 1000
                     },
                     {
-                      "name": "Alice Belasai"
+                      "name": "Alice Belasai",
+              "value": 1000
                     },
                     {
-                      "name": "David Steele"
+                      "name": "David Steele",
+              "value": 1000
                     },
                     {
-                      "name": "Hannah Walpole"
+                      "name": "Hannah Walpole",
+              "value": 1000
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Life at Rothamsted"
+              "name": "Life at Rothamsted",
+              "value": 1000
             },
             {
-              "name": "Athena SWAN"
+              "name": "Athena SWAN",
+              "value": 1000
             },
             {
-              "name": "Flexible Working"
+              "name": "Flexible Working",
+              "value": 1000
             }
           ]
         },
         {
-          "name": "Contact"
+          "name": "Contact",
+              "value": 1000
         }
       ]
     },
