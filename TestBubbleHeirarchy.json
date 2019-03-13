@@ -7,23 +7,79 @@
         {
           "name": "News",
           "children": [
-            {
-              "name": "News Item 1",
-              "value": 1000
-            },
-            {
-              "name": "News item 2",
-              "value": 1000
-            },
-            {
-              "name": "News item 3",
-              "value": 1000
-            },
-            {
-              "name": "News Item 4",
-              "value": 1000
-            }
-          ]
+ {
+   "Discoveries @Rothamsted": "GM Camelina Trial: Frequently asked questions",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "This is a test article (do not publish)",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "When less is more",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "still not clear on bees",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "The rise of the genomes",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "Edits, mutations and GM",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "Trials to regain independence",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "Hungry to change the world",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "Wall-to-wall science to secure the future of food",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "When the need for change dawns",,
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "Open minds, open doors",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Alison Carswell",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Claire Horrocks",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Neil Brown",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Andrea Dixon",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Ondrej Kosik",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Jozsef Vuts",
+              "value": 700
+ },
+ {
+   "Discoveries @Rothamsted": "A day in the life of Dr Chris Jones",
+              "value": 700
+ }
+]
         },
         {
           "name": "Events",
