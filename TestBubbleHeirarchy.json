@@ -14,7 +14,7 @@
         },
         {
           "name": "Events",
-          "type": "Produce",
+          "synthetic": "true",
           "children": [
             {
               "name": "Event 1",
